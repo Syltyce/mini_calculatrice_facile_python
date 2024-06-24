@@ -1,8 +1,3 @@
-# Demander à l'utilisateur de rentrer des nombres 
-# Si l'utilisateur n'a pas rentrer de nombre : afficher message qui demander à l'utilisateur de rentrer des nombres et relancer l'input 
-# Si l'utilisateur à rentrer 2 nombre : demander l'opération qu'il souhaite effectuer 
-# Si l'utilisateur n'entre pas un signe d'opération : recommencer la demande
-
 nb1 = input("Entrez un premier nombre : ")
 nb2 = input("Entrez un second nombre : ")
 
